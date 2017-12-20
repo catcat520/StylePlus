@@ -1,4 +1,4 @@
-@-moz-document url-prefix("https://userstyles.org/styles/") {
+
 /* VER : UTC+8 : 2017.06.01 | 20:00 *//* i really want this to be global */
 /* UserStylesBeautify */
 /* 顶部尺寸/header top size */
@@ -137,9 +137,9 @@ div#view>div#style_info>#discussions-area{margin-left: 2%;position: relative;mar
 #paypal_form{position: absolute;left: 0px;margin-top: 95vh;}
 #style_info>div.text_style_page{max-height: 38vh !important;overflow: scroll !important;}
 }
-}
 
-@-moz-document url-prefix("https://userstyles.org/users/") {
+
+
 /* 顶部尺寸/header top size */
 div#root>div>div#header{height: auto;z-index: 9999;}
 #account>a>span{padding: 10px;margin-left: inherit;}
@@ -162,4 +162,4 @@ div#nav-view{position: absolute;left: 16vw;top: 1vh;width: 82%;}
 @supports(-moz-animation: none){
 #footer{position: absolute;margin-top: 370vh;}
 }
-}
+
